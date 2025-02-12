@@ -1,0 +1,4 @@
+#!/bin/bash
+For ((j=0 ; j<=100 ; j++)) ; do
+ echo "julia's-project
+done
